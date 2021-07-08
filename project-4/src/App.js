@@ -8,6 +8,7 @@ import Header from "./component/Header/Header";
 //import TimeFetch from "./component/TimeFetch";
 import Profile from './component/Page/Profile/Profile';
 import Home from "./component/Page/Home/Home";
+import Footer from "./component/Footer/Footer";
 import Course from "./component/Course/Course";
 
 const App =() => {
@@ -24,6 +25,7 @@ const App =() => {
       <Route component={Error}/>
     </Switch>
     </div>
+    <Footer/>
     </>
   )
 }

@@ -8,27 +8,24 @@ class Profile extends React.Component {
         <div class="container">
 		<div class="card">
 			<div class="box">
-				<img src="JDK.jpg"/>
+				<img src="./Images/men.jpg"/>
 			</div>
 			<div class="details">
-				<h2>My Profile</h2>
-				<p>hello jagdish</p>
-				<div class="typing"><p>This is jagdish surin from ranchi</p></div>
+				<h2>Neel Prayag Beck</h2><br/>
+				<h3>202120052</h3><br/>
+				<p>Course : M.C.A</p>
 			</div>
 		</div>
 
 		
 		<div class="card">
 			<div class="box">
-				<img src="book.png"/>
+				<img src="./Images/men.png"/>
 			</div>
 			<div class="details">
-				<h2>My Fabourite book</h2>
-				<p>1.Fantastic beast</p>
-				<p>2.Rich dad Poor dad</p>
-				<p>3.Chetan Bhagat</p>
-				<p>4.Troubled Blood</p>
-				<p>5.Gulliver travel</p>
+				<h2>Jagdish Kr surin</h2><br/>
+				<h3>202120054</h3><br/>
+				<p>Course : M.C.A</p>
 			</div>
 		</div>
 
@@ -36,11 +33,12 @@ class Profile extends React.Component {
         
 		<div class="card">
 			<div class="box">
-				<img src="f.jpg"/>
+				<img src="./Images/men1.jpg"/>
 			</div>
 			<div class="details">
-				<h2>Feedback</h2>
-				<p>hello jagdish</p>
+				<h2>Ashutosh Tigga</h2><br/>
+				<h3>202120148</h3><br/>
+				<p>Course : M.C.A</p>
 			</div>
 		</div>
 	</div>
